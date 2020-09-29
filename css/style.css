@@ -1,0 +1,12 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+#userImg{
+border: 3px solid rgb(224, 224, 224);
+}
+
+.card{
+height: 100%;
+}
