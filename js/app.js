@@ -1,21 +1,6 @@
 $(document).ready(() => {
 
 
-/*
-//View Profile Button
-$('#viewProfile').on('click', (e) => {
-  axios
-  .get('https://api.github.com/users/bradtraversy')
-  .then(response => {
-  let result = response.data;
-  window.open(`${result.html_url}`);
-  })
-  .catch(error => console.log(error));
-})
-
-*/
-
-
 //Search Event
 $('#userSearch').on('keyup', (e) => {
 
